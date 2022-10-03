@@ -1,3 +1,3 @@
 # Demo Curriculum
 
-Demo for adding curriculum to my class
+Demo for adding curriculum to my class!
